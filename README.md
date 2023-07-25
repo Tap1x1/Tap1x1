@@ -1,6 +1,7 @@
 ### Hi i'm Aleksandr 👋
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
-<img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/telegram?logo=telegram&label=Telegram&link=https%3A%2F%2Ft.me%2FTap1xx">
+<img alt="Github Gist stars" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Tap1xx">
 
 
 
