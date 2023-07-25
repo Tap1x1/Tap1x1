@@ -2,13 +2,9 @@
 Hi i'm Aleksandr 👋
 </h1>
 
-<p align='center'>
-  Python developer.
-  Flask.
-  Django.
-  Parsing
-  
-</p>
+<h3 align='center'>
+  Python developer
+</h3>
 
 <p align='center'>
 <a href="https://t.me/Tap1xx">
@@ -19,9 +15,6 @@ Hi i'm Aleksandr 👋
 <p align='center'>
   📫 How to reach me: <a href='mailto:a.ulanov2000@gmail.com'>a.ulanov2000@gmail.com</a>
 </p>
-
-<details>
-  <summary>📃 Resume</summary>
 
 
 ## Education
@@ -36,18 +29,12 @@ Hi i'm Aleksandr 👋
 📆 2019 - 2022\
 📍 **Karaganda University of Kazpotrebsoyuz** - Kazakhstan
 
+## Technical stack
 
-<!--
-**Tap1x1/Tap1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Python, Kotlin
+- PostgreSQL, MySQL, SQLAlchemy
+- Flask RESTful API, Django REST Framework, Selenium, Request
+- GitHub, GitLab
+- Doker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
