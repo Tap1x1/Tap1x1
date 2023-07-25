@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi i'm Aleksandr 👋
+
+https://img.shields.io/github/gist/stars/telegram?logo=telegram&label=Telegram&link=https%3A%2F%2Ft.me%2FTap1xx
+
 
 <!--
 **Tap1x1/Tap1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
